@@ -1,4 +1,4 @@
-### 4. Python: OpsBot Log Automator README
+### Python: OpsBot Log Automator README
 **File Name:** `Python_OpsBot/README.md`
 
 
